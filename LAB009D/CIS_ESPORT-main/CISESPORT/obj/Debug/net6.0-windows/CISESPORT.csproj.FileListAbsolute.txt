@@ -1,0 +1,46 @@
+C:\Source Code\OOP\CISESPORT\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.csproj.AssemblyReference.cache
+C:\Source Code\OOP\CISESPORT\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.FormAllPlayer.resources
+C:\Source Code\OOP\CISESPORT\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.FormInfo.resources
+C:\Source Code\OOP\CISESPORT\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.csproj.GenerateResource.cache
+C:\Source Code\OOP\CISESPORT\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source Code\OOP\CISESPORT\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.AssemblyInfoInputs.cache
+C:\Source Code\OOP\CISESPORT\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.AssemblyInfo.cs
+C:\Source Code\OOP\CISESPORT\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.csproj.CoreCompileInputs.cache
+C:\Source Code\OOP\CISESPORT\CISESPORT\bin\Debug\net6.0-windows\CISESPORT.exe
+C:\Source Code\OOP\CISESPORT\CISESPORT\bin\Debug\net6.0-windows\CISESPORT.deps.json
+C:\Source Code\OOP\CISESPORT\CISESPORT\bin\Debug\net6.0-windows\CISESPORT.runtimeconfig.json
+C:\Source Code\OOP\CISESPORT\CISESPORT\bin\Debug\net6.0-windows\CISESPORT.dll
+C:\Source Code\OOP\CISESPORT\CISESPORT\bin\Debug\net6.0-windows\CISESPORT.pdb
+C:\Source Code\OOP\CISESPORT\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.dll
+C:\Source Code\OOP\CISESPORT\CISESPORT\obj\Debug\net6.0-windows\refint\CISESPORT.dll
+C:\Source Code\OOP\CISESPORT\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.pdb
+C:\Source Code\OOP\CISESPORT\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.genruntimeconfig.cache
+C:\Source Code\OOP\CISESPORT\CISESPORT\obj\Debug\net6.0-windows\ref\CISESPORT.dll
+C:\Source Code\OOP\CISESPORT\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.FormTeamInfo.resources
+C:\Source Code\OOP\CISESPORT\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.ApplicationForm.resources
+C:\Source Code\OOP\CISESPORT\CISESPORT\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Source Code\OOP\CISESPORT\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.csproj.CopyComplete
+C:\Source Code\OOP\CISESPORT\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.FormAllTeam.resources
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\bin\Debug\net6.0-windows\CISESPORT.exe
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\bin\Debug\net6.0-windows\CISESPORT.deps.json
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\bin\Debug\net6.0-windows\CISESPORT.runtimeconfig.json
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\bin\Debug\net6.0-windows\CISESPORT.dll
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\bin\Debug\net6.0-windows\CISESPORT.pdb
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.csproj.AssemblyReference.cache
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.ApplicationForm.resources
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.FormAllPlayer.resources
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.FormAllTeam.resources
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.FormInfo.resources
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.FormTeamInfo.resources
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.csproj.GenerateResource.cache
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.AssemblyInfoInputs.cache
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.AssemblyInfo.cs
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.csproj.CoreCompileInputs.cache
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.csproj.CopyComplete
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.dll
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\obj\Debug\net6.0-windows\refint\CISESPORT.dll
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.pdb
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\obj\Debug\net6.0-windows\CISESPORT.genruntimeconfig.cache
+D:\Github\lab classlibrary\cis esport\CIS_ESPORT-main\CIS_ESPORT-main\CISESPORT\obj\Debug\net6.0-windows\ref\CISESPORT.dll
